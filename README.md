@@ -52,7 +52,7 @@ https://okeanea-clinic.ru/analizy#contacts
 
 ###
 
-Писать `[  ]` Писать  `( )`.
+Писать `[https://github.com]` Писать  `(https://okeanea)`.
 
 
 

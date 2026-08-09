@@ -81,11 +81,6 @@ _Перейдите на этот веб-сайт - Go to this website_
 > ffffff
 
 
-
-
-```math
-\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
-```
 Test Ocean three
 ==
 
@@ -97,8 +92,6 @@ Test Ocean three
 
 > Тестирований для Git Hub.
 > Мой сайт Для дипломов 
-
-
 
 
 |-|--------|---|---|

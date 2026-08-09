@@ -32,3 +32,15 @@
 |16|        |             |  5 |
 |17|        |             |  5 |
 |18|        |             |  5 |
+
+
+
+``Зайдите и посмотрите, какие врачи работают - Come in and see which doctors are working.
+```
+https://okeanea-clinic.ru/#doctors
+```
+
+``Зайдите и посмотрите, какие врачи работают в этой клинике - Come in and see which doctors work at this clinic.
+```
+https://okeanea-clinic.ru/analizy#contacts
+```
